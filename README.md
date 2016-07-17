@@ -6,7 +6,7 @@
     2 : Use your IDE (e.g.IntelliJ IDEA) open the pom.xml
     3 : You will see how to use FlatBuffer in any type, including any existing model.
 
-#Later All Tests Passed using TestStartup. 
+#Later All Tests Passed By TestStartup. 
 #Next Step : performance test & code optimization
 This is a FlatBuffer application which I will rewrite HDFS Namenode protobuf using in loadFSImage later (At here https://github.com/zhangminglei/hadoop/tree/LaterHadoopUseFlatBuffer). It's a new design and it's a memory efficient serialization Library. If you are interested in this project, Please contact with me.
 
