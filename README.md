@@ -1,5 +1,4 @@
-# Help Java Programmer Better Use FlatBuffer In Their project. you can only see this POST with Java language pratice now. 有部分来信的同学问我有没有别的语言的支持，很抱歉，我目前比较忙，等忙完这断时间会来写完成支持JSON, C++, C#, JavaScript，thanks.
-
+# Help Java Programmer Better Use FlatBuffer In Their project. you can only see this POST with Java language pratice now.
 #How you will use this project?
 
     1 : git clone https://github.com/zhangminglei/FlatBuffer
